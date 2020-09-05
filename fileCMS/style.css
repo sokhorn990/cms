@@ -1,0 +1,48 @@
+/* theme name : widgetpro
+author: sokhorn 
+author url: http://localhost/wordpress
+version:1.0
+ */
+
+h1{
+    color: rebeccapurple;
+}
+ul {
+    margin-top:-85px;
+    overflow: hidden;
+    background: linear-gradient(blue,purple);
+}
+li{
+    float: left;
+    list-style: none;
+    font-size: 15px;
+}
+li a{
+    text-decoration: none;
+    padding: 30px;
+    display: block;
+    color: black;
+    font-size: 20px;
+}
+
+/* li:hover{
+    background: rgb(28, 3, 73);
+  } */
+li a:hover{
+    color: aliceblue;
+}
+ 
+.main1{ 
+    width: 68%;
+    /* background: blue; */
+}
+.side{
+    /* background: rgb(141, 138, 138); */
+    margin-left: 20px;
+    width: 30%;
+}
+.footer{
+    margin-top: 10px;
+    background: #000;
+    padding: 30PX;
+}

@@ -1,0 +1,38 @@
+/*
+theme name: trial
+
+*/
+body{background-color: beige;}
+h1{color:red;}
+
+
+ul {
+	list-style:none;
+	display: flex;
+    background: black;
+    
+}
+ul li {
+	padding: 14px 16px;
+    font-size: 20px;
+    
+}
+ul li a {
+    color: 	white;
+    text-decoration: none;
+}
+
+ul#new{background-color:gainsboro; list-style:none; margin: 0; padding: 0;
+    }
+ul#newli{
+        font-size:20px; 
+    }   
+
+    ul#new li a {
+        color:red;
+    }
+    
+.box{width:80%; height: auto; background-color:white;  margin-left: auto; margin-right: auto; border:1px solid grey;padding: 10px;}
+
+
+
